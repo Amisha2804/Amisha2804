@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amisha2804" alt="amisha2804" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **python and c**
 
 - 📫 How to reach me **amisha22@navgurukul.org**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YFPrAcHd46odVjvd65P3GW1bJfwL3XHv/view?usp=sharing](https://drive.google.com/file/d/1YFPrAcHd46odVjvd65P3GW1bJfwL3XHv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amisha2804&show_icons=true&locale=en" alt="amisha2804" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amisha2804&" alt="amisha2804" /></p>
+
