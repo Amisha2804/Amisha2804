@@ -1,10 +1,3 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amisha2804&show_icons=true&locale=en&layout=compact" alt="amisha2804" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amisha2804&show_icons=true&locale=en" alt="amisha2804" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amisha2804&" alt="amisha2804" /></p>
-
-
 <h1 align="center">Hi 👋, I'm Amisha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
