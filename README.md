@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amisha2804&label=Profile%20views&color=0e75b6&style=flat" alt="amisha2804" /> </p>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Reactjs**
+- I have knowldege in python ,c and web development.
+- I am eager to learn new things.
+- I have adapatibilty skills.
 
 - 📫 How to reach me **amisha22@navgurukul.org**
 
