@@ -9,14 +9,14 @@
 
 - 💬 Ask me about **python and c**
 
-- 📫 How to reach me **amisha22@navgurukul.org**
+- 📫 How to reach me **amisha.28jha@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YFPrAcHd46odVjvd65P3GW1bJfwL3XHv/view?usp=sharing](https://drive.google.com/file/d/1YFPrAcHd46odVjvd65P3GW1bJfwL3XHv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amisha kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amisha kumari" height="30" width="40" /></a>
-<a href="https://instagram.com/cutie_brahaman28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cutie_brahaman28" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/amishakumari28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amishakumari28" height="30" width="40" /></a>
 </p>
 
